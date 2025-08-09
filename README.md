@@ -48,8 +48,8 @@
 ### 📊 Data Science  
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="48" /><br>Pandas  
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="48" /><br>NumPy     
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="48" /><br>Tableau  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="48" /><br>Power BI  
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Tableau_Logo.png" width="48" alt="Tableau" /><br>Tableau  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Power_BI_Logo.svg" width="48" alt="Power BI" /><br>Power BI   
 
 </td>
 <td align="center" width="200">
