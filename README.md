@@ -55,6 +55,7 @@
 </tr>
 </table>
 
+---
 
 📫 **Let’s connect!**  
 
