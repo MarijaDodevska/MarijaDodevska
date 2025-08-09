@@ -1,6 +1,5 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Marija Dodevska</h1>
-<h3 align="center">Turning data into decisions, and ideas into impact 🚀</h3>
 
 <p align="center">
 🎓 Bachelor in Software Engineering & Information Systems<br>
@@ -41,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br>TensorFlow  
 <img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br>PyTorch  
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"><br>Scikit-learn  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Keras_logo.svg" width="48"><br>Keras  
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48"><br>Hugging Face  
 
 </td>
 <td align="center" width="200">
