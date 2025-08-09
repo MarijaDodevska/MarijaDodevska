@@ -30,11 +30,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-- 
-
----
-
 ## 🌱 Currently Learning  
 
 ![ML](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
@@ -44,5 +39,7 @@
 ---
 
 📫 **Let’s connect!**  
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marija-dodevska-31ba8b24b/)  
+
 [![Email](https://img.shields.io/badge/Email-marijadodevska01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marijadodevska01@gmail.com)  
