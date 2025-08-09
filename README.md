@@ -47,9 +47,9 @@
 
 ### 📊 Data Science  
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="48" /><br>Pandas  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="48" /><br>NumPy    
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Apache_Spark_logo.svg" width="48"><br>Apache Spark  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google_BigQuery_Logo.svg" width="48"><br>BigQuery  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="48" /><br>NumPy     
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="48" /><br>Tableau  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="48" /><br>Power BI  
 
 </td>
 <td align="center" width="200">
