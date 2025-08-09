@@ -13,7 +13,6 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/NumPy_logo_2020.svg" height="40" />
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=vscode,idea" />
 </p>
