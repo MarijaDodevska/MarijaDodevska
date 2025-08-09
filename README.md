@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="230">
   
 ### 💻 Programming  
 <img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python  
@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript  
 
 </td>
-<td align="center" width="200">
+<td align="center" width="230">
   
 ### 🤖 Machine Learning  
 <img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br>TensorFlow  
@@ -43,7 +43,7 @@
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48"><br>Hugging Face  
 
 </td>
-<td align="center" width="200">
+<td align="center" width="230">
 
 ### 🚀 DevOps & Tools  
 <img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker  
