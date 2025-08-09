@@ -8,14 +8,14 @@
 
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
   <!-- ML & Data Science -->
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/NumPy_logo_2020.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Keras_logo.svg" height="40" alt="Keras" />
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes" />
   <img src="https://skillicons.dev/icons?i=vscode,idea" />
 </p>
 
