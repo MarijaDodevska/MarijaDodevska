@@ -45,15 +45,6 @@
 </td>
 <td align="center" width="200">
 
-### 📊 Data Science  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="48" /><br>Pandas  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="48" /><br>NumPy     
-<img src="https://raw.githubusercontent.com/openai-chatgpt-assets/icons/main/tableau.png" width="48" alt="Tableau" /><br>Tableau  
-<img src="https://raw.githubusercontent.com/openai-chatgpt-assets/icons/main/powerbi.png" width="48" alt="Power BI" /><br>Power BI  
-
-</td>
-<td align="center" width="200">
-
 ### 🚀 DevOps & Tools  
 <img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker  
 <img src="https://skillicons.dev/icons?i=kubernetes" width="48"><br>Kubernetes  
