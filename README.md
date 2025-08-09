@@ -24,31 +24,35 @@
 ## 🛠 Skills & Tools  
 
 <table>
-  <tr>
-    <td align="center" width="260">
-      <h3>💻 Programming</h3>
-      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br>Python  
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" /><br>C++  
-      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" /><br>Java  
-      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br>JavaScript  
-    </td>
+<tr>
+<td align="center" width="260">
+  
+### 💻 Programming  
+<img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python  
+<img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++  
+<img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java  
+<img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript  
 
-    <td align="center" width="260">
-      <h3>🤖 Machine Learning</h3>
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow" /><br>TensorFlow  
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" /><br>PyTorch  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" alt="Scikit-learn" /><br>Scikit-learn  
-      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" alt="Hugging Face" /><br>Hugging Face  
-    </td>
+</td>
+<td align="center" width="260">
+  
+### 🤖 Machine Learning  
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br>TensorFlow  
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br>PyTorch  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"><br>Scikit-learn  
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48"><br>Hugging Face  
 
-    <td align="center" width="260">
-      <h3>🚀 DevOps & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br>Docker  
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" /><br>Kubernetes  
-      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br>Git  
-      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br>GitHub  
-    </td>
-  </tr>
+</td>
+<td align="center" width="260">
+
+### 🚀 DevOps & Tools  
+<img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker  
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48"><br>Kubernetes  
+<img src="https://skillicons.dev/icons?i=git" width="48"><br>Git  
+<img src="https://skillicons.dev/icons?i=github" width="48"><br>GitHub  
+
+</td>
+</tr>
 </table>
 
 
