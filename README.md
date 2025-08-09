@@ -1,40 +1,70 @@
-# 👋 Hi, I'm Marija Dodevska  
-
-🎓 **Bachelor in Software Engineering & Information Systems**  
-🤖 Learning & building in **Machine Learning & AI**  
----
-
-## 🛠 Skills & Tools  
-
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
-  <!-- ML & Data Science -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,idea" />
-</p>
-
----
-
-## 📊 GitHub Stats  
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Marija Dodevska</h1>
+<h3 align="center">Turning data into decisions, and ideas into impact 🚀</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarijaDodevska&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaDodevska&layout=compact&theme=tokyonight" height="180em" />
+🎓 Bachelor in Software Engineering & Information Systems<br>
+🤖 Exploring Machine Learning, AI, and Data Science<br>
+💡 Transforming raw datasets into real-world breakthroughs
 </p>
 
 ---
 
 ## 🌱 Currently Learning  
 
-![ML](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![MLOps](https://img.shields.io/badge/MLOps-FF4B4B?style=for-the-badge&logo=mlflow&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=spacy&logoColor=white)   
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-FF4B4B?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+</p>
 
 ---
+
+## 🛠 Skills & Tools  
+
+<table>
+<tr>
+<td align="center" width="200">
+  
+### 💻 Programming  
+<img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python  
+<img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++  
+<img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java  
+<img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript  
+
+</td>
+<td align="center" width="200">
+  
+### 🤖 Machine Learning  
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br>TensorFlow  
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br>PyTorch  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"><br>Scikit-learn  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Keras_logo.svg" width="48"><br>Keras  
+
+</td>
+<td align="center" width="200">
+
+### 📊 Data Science  
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48"><br>Pandas  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/14/NumPy_logo_2020.svg" width="48"><br>NumPy  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Apache_Spark_logo.svg" width="48"><br>Apache Spark  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google_BigQuery_Logo.svg" width="48"><br>BigQuery  
+
+</td>
+<td align="center" width="200">
+
+### 🚀 DevOps & Tools  
+<img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker  
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48"><br>Kubernetes  
+<img src="https://skillicons.dev/icons?i=git" width="48"><br>Git  
+<img src="https://skillicons.dev/icons?i=github" width="48"><br>GitHub  
+
+</td>
+</tr>
+</table>
+
 
 📫 **Let’s connect!**  
 
