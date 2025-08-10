@@ -39,6 +39,10 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/SQL-282828?style=for-the-badge&logo=postgresql&logoColor=FABD2F" />
+</a>
+&nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>
 
