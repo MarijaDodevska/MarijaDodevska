@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1>👋 Hi, I'm Marija Dodevska</h1>
+<h1 align="center">👋 Hi, I'm Marija Dodevska</h1>
 
-<p><strong>
+<p align="center"><strong>
 🎓 Bachelor in Software Engineering & Information Systems<br>
-🤖 Exploring Machine Learning, AI, and Data Science <br>
-💡 Transforming raw datasets into real-world breakthroughs 
+🤖 Exploring Machine Learning, AI, and Data Science<br>
+💡 Transforming raw datasets into real-world breakthroughs
 </strong></p>
 
 ---
@@ -12,46 +12,86 @@
 ## 🌱 Currently Learning  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-FF4B4B?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model%20Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/MLOps-FF4B4B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Model%20Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Model Deployment" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Feature Engineering" />
 </p>
 
 ---
 
 ## 🛠 Skills & Tools  
 
+<p align="center">
+
 ### 💻 Programming  
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+&nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</a>
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-
----
+<br><br>
 
 ### 🤖 Machine Learning  
+<a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white" />
+</a>
 
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6F61?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/)
-
----
+<br><br>
 
 ### 🚀 DevOps & Tools  
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+</p>
 
 ---
 
 📫 **Let’s connect!**  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marija-dodevska-31ba8b24b/)  
-
-[![Email](https://img.shields.io/badge/Email-marijadodevska01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marijadodevska01@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/marija-dodevska-31ba8b24b/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:marijadodevska01@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
