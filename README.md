@@ -2,7 +2,7 @@
 <h1 >👋 Hi, I'm Marija Dodevska</h1>
 
 <p><strong>
-🎓 Bachelor in Software Engineering & Information Systems<br>
+🎓 Bachelor of Science in Software Engineering & Information Systems<br>
 🤖 Exploring Machine Learning, AI, and Data Science<br>
 💡 Transforming raw datasets into real-world breakthroughs
 </strong></p>
