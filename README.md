@@ -28,28 +28,28 @@
 <td align="center" width="260">
   
 ### 💻 Programming  
-<img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python   
-<img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java  
-<img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript 
+<img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python<br>    
+<img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java<br>   
+<img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript<br> <br> 
 <img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++ 
 
 </td>
 <td align="center" width="260">
-  
+
 ### 🤖 Machine Learning  
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br>TensorFlow  
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br>PyTorch  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"><br>Scikit-learn  
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48"><br>Hugging Face  
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br>TensorFlow<br>   
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br>PyTorch <br>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"><br>Scikit-learn<br>   
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48"><br>Hugging Face<br>   
 
 </td>
 <td align="center" width="260">
 
 ### 🚀 DevOps & Tools  
-<img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker  
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48"><br>Kubernetes  
-<img src="https://skillicons.dev/icons?i=git" width="48"><br>Git  
-<img src="https://skillicons.dev/icons?i=github" width="48"><br>GitHub  
+<img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker <br>  
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48"><br>Kubernetes  <br> <br> 
+<img src="https://skillicons.dev/icons?i=git" width="48"><br>Git  <br> <br> 
+<img src="https://skillicons.dev/icons?i=github" width="48"><br>GitHub  <br> 
 
 </td>
 </tr>
