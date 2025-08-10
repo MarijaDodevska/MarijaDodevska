@@ -1,11 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Marija Dodevska</h1>
 
-<p>
+<p><strong>
 🎓 Bachelor in Software Engineering & Information Systems<br>
-🤖 Exploring Machine Learning, AI, and Data Science<br>
-💡 Transforming raw datasets into real-world breakthroughs
-</p>
+🤖 Exploring Machine Learning, AI, and Data Science <br>
+💡 Transforming raw datasets into real-world breakthroughs 
+</strong></p>
 
 ---
 
