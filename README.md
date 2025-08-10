@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Marija Dodevska</h1>
+<h1>👋 Hi, I'm Marija Dodevska</h1>
 
 <p><strong>
 🎓 Bachelor in Software Engineering & Information Systems<br>
@@ -54,6 +54,12 @@
 </td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaDodevska&layout=compact&theme=gruvbox_light" height="180em" />
+</p>
 
 ---
 
