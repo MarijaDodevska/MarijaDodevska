@@ -20,45 +20,32 @@
 </p>
 
 ---
-
 ## 🛠 Skills & Tools  
 
-<table>
-<tr>
-<td align="center" width="260">
-  
-### 💻 Programming  
-<img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python<br>    
-<img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java<br>   
-<img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript<br> <br> 
-<img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++ 
+<p align="center">
 
-</td>
-<td align="center" width="260">
+### 💻 Programming  
+<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" />
+
+<br><br>
 
 ### 🤖 Machine Learning  
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br>TensorFlow<br>   
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br>PyTorch <br>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"><br>Scikit-learn<br>   
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48"><br>Hugging Face<br>   
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" alt="Scikit-learn" />&nbsp;&nbsp;
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" alt="Hugging Face" />
 
-</td>
-<td align="center" width="260">
+<br><br>
 
 ### 🚀 DevOps & Tools  
-<img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker <br>  
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48"><br>Kubernetes  <br> <br> 
-<img src="https://skillicons.dev/icons?i=git" width="48"><br>Git  <br> <br> 
-<img src="https://skillicons.dev/icons?i=github" width="48"><br>GitHub  <br> 
+<img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
 
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaDodevska&layout=compact&theme=gruvbox_light" height="180em" />
 </p>
 
 ---
