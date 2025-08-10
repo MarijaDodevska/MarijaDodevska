@@ -28,10 +28,10 @@
 <td align="center" width="260">
   
 ### 💻 Programming  
-<img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python  
-<img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++  
+<img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python   
 <img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java  
-<img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript  
+<img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript 
+<img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++ 
 
 </td>
 <td align="center" width="260">
