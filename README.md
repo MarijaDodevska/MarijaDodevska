@@ -20,33 +20,33 @@
 </p>
 
 ---
+
 ## 🛠 Skills & Tools  
 
-<p align="center">
-
 ### 💻 Programming  
-<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" />
 
-<br><br>
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
+---
 
 ### 🤖 Machine Learning  
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" />&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" alt="Scikit-learn" />&nbsp;&nbsp;
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" alt="Hugging Face" />
 
-<br><br>
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6F61?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/)
+
+---
 
 ### 🚀 DevOps & Tools  
-<img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
 
-</p>
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
